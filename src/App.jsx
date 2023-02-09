@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import CardsSection from './sections/CardsSection'
 const initialProducts = [
   {
